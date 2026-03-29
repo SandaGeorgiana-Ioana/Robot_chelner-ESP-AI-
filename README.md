@@ -1,7 +1,7 @@
 # Proiect în curs de dezvoltare
 Vreau să mai fac un roboțel, să adaug tăvi la ei și să fac PCB pentru circuit.
 # Detalii despre proiect
-Proiectul reprezintă un sistem de automatizare a unui restaurant, unde comenzile plasate prin aplicație mobilă sunt procesate de o platformă software și livrate la masă de robot autonom controlat wireless prin SuperMini ESP32, folosind comunicare MQTT în timp real
+Sistemul automatizează servirea într-un restaurant prin conectarea unei aplicații mobile direct la un robot de livrare. Clientul plasează comanda pe telefon, platforma software o procesează, iar robotul, dotat cu un modul SuperMini ESP32, primește instrucțiunile wireless și pleacă spre masă. Întregul proces se bazează pe protocolul MQTT, care asigură o comunicare rapidă și stabilă între aplicație și robot, transformând livrarea preparatelor într-un flux simplu, automatizat.
 
 # Componenete principale
 Aplicația mobilă (React Native / Expo) permite clientului să selecteze masa, să navigheze prin meniu organizat pe categorii, să primească recomandări personalizate generate de un model AI și să trimită comanda direct la bucătărie.
