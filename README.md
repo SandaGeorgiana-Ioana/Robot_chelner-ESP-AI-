@@ -80,4 +80,6 @@ https://github.com/user-attachments/assets/aed57150-3011-46e2-8f3d-2db543737dd9
   <img src="https://github.com/user-attachments/assets/8b0db78c-ca4c-48a9-8fe3-ca52ccbdb492" width="500"/>
 </p>
 
+<img width="1917" height="869" alt="Captură de ecran 2026-03-16 193240" src="https://github.com/user-attachments/assets/7b01f21d-9a27-463f-bbb3-a2ad76c00fc5" />
 
+<img width="1903" height="845" alt="Captură de ecran 2026-03-16 133015" src="https://github.com/user-attachments/assets/11876e21-35b2-4beb-a096-1852e7769eff" />
