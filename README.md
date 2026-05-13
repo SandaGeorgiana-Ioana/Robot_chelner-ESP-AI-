@@ -4,6 +4,8 @@ Sistemul automatizează servirea într-un restaurant prin conectarea unei aplica
 # Video Demonstrativ( Un Robot cu PCB )
 
 https://github.com/user-attachments/assets/5d38c4cf-d678-4caa-816b-d61c704c7208
+
+
 https://github.com/user-attachments/assets/630d22d6-393e-430a-b13f-af40d6ab710a
 
 
