@@ -19,7 +19,7 @@ Roboții de livrare (ESP32 / MQTT / Mosquitto) primesc instrucțiunile wireless,
 # Robotii Actuali
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/ad173238-5755-4c8a-8c80-ebbf12203645" />
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/4fb79388-4fd1-4d69-a8fc-b97366f4c45b" />
-![Uploading image.png…]()
+
 
 
 # PCB 
