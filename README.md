@@ -17,8 +17,25 @@ Dashboard-ul bucătăriei (React) oferă personalului o interfață tip Kanban c
 
 
 Roboții de livrare (ESP32 / MQTT / Mosquitto) primesc instrucțiunile wireless, execută traseul predefinit către masa specificată și confirmă sosirea înapoi către server, care marchează automat comanda ca livrată.
+# Robotii Actuali
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/ad173238-5755-4c8a-8c80-ebbf12203645" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/4fb79388-4fd1-4d69-a8fc-b97366f4c45b" />
+![Uploading image.png…]()
 
-# Demonstrație video 
+
+# PCB 
+<img width="1031" height="678" alt="image" src="https://github.com/user-attachments/assets/66052b1c-7925-429c-82f5-229bb9821784" />
+
+<img width="743" height="799" alt="image" src="https://github.com/user-attachments/assets/8bd18b18-3acc-4191-8b80-cbc668d4be0a" />
+<img width="561" height="729" alt="image" src="https://github.com/user-attachments/assets/7fce00b8-d3fe-4c1f-8919-983d89a9123a" />
+<img width="1223" height="1600" alt="image" src="https://github.com/user-attachments/assets/3653f7aa-85d2-4e3b-938a-f72def995c23" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/c030dee1-7ebe-4788-9c1b-603ea5f8fc8f" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/fdd1899d-cb3b-4ba5-8f0a-bf4dbd9ddb44" />
+
+
+
+
+# Demonstrație video PROTOTIP
 
 https://github.com/user-attachments/assets/aed57150-3011-46e2-8f3d-2db543737dd9
 
