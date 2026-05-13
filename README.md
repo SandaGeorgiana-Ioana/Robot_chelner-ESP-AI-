@@ -1,6 +1,15 @@
 
 # Detalii despre proiect
 Sistemul automatizează servirea într-un restaurant prin conectarea unei aplicații mobile direct la un robot de livrare. Clientul plasează comanda pe telefon, platforma software o procesează, iar robotul, dotat cu un modul SuperMini ESP32, primește instrucțiunile wireless și pleacă spre masă. Întregul proces se bazează pe protocolul MQTT, care asigură o comunicare rapidă și stabilă între aplicație și robot, transformând livrarea preparatelor într-un flux simplu, automatizat.
+# Video Demonstrativ( Un Robot cu PCB )
+
+
+https://github.com/user-attachments/assets/630d22d6-393e-430a-b13f-af40d6ab710a
+
+
+
+https://github.com/user-attachments/assets/5d38c4cf-d678-4caa-816b-d61c704c7208
+
 
 # Componenete principale
 Aplicația mobilă (React Native / Expo) permite clientului să selecteze masa, să navigheze prin meniu organizat pe categorii, să primească recomandări personalizate generate de un model AI și să trimită comanda direct la bucătărie.
