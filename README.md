@@ -1,6 +1,21 @@
 
 # Detalii despre proiect
 Sistemul automatizează servirea într-un restaurant prin conectarea unei aplicații mobile direct la un robot de livrare. Clientul plasează comanda pe telefon, platforma software o procesează, iar robotul, dotat cu un modul SuperMini ESP32, primește instrucțiunile wireless și pleacă spre masă. Întregul proces se bazează pe protocolul MQTT, care asigură o comunicare rapidă și stabilă între aplicație și robot, transformând livrarea preparatelor într-un flux simplu, automatizat.
+# Documentatie PROIECT FINAL
+[Licenta_SANDA_GEORGIANA_IOANA.pdf](https://github.com/user-attachments/files/31274815/Licenta_SANDA_GEORGIANA_IOANA.pdf)
+
+
+# Video PROIECT FINAL- RESTAURANT AUTOMATIZAT
+
+
+https://github.com/user-attachments/assets/4cddf826-a119-4a11-9aa9-68a805860175
+
+
+
+
+
+
+
 # Video Demonstrativ( Un Robot cu PCB )
 
 https://github.com/user-attachments/assets/5d38c4cf-d678-4caa-816b-d61c704c7208
