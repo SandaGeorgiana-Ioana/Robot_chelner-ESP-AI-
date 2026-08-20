@@ -5,7 +5,7 @@ Sistemul automatizează servirea într-un restaurant prin conectarea unei aplica
 [Licenta_SANDA_GEORGIANA_IOANA.pdf](https://github.com/user-attachments/files/31274815/Licenta_SANDA_GEORGIANA_IOANA.pdf)
 
 
-# Video PROIECT FINAL- RESTAURANT AUTOMATIZAT
+# Video PROIECT FINAL- RESTAURANT AUTOMATIZAT ( 2 ROBOTI)
 
 
 https://github.com/user-attachments/assets/4cddf826-a119-4a11-9aa9-68a805860175
